@@ -17,4 +17,4 @@ For example, if we want to compile.
     make run
 <br>
 
-The result image "out.bmp" will be saved at part1/build, and the elapsed time will be shown on the terminal. <br>
+The result image "out.bmp" will be saved at ./build, and the elapsed time will be shown on the terminal. <br>
