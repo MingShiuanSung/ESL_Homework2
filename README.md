@@ -2,7 +2,7 @@
 This is a introduction to compile HW2 files. <br>
 
 ## Introduction
-This project contains a Gauss filter module connected to Testbench module with a TLM bus. <br>
+This project contains a Gaussion filter module connected to Testbench module with a TLM bus. <br>
 
 ## Compilation
 For example, if we want to compile.
@@ -12,9 +12,6 @@ For example, if we want to compile.
 <br>
 
     cmake ..
-<br>
-
-    make
 <br>
 
     make run
